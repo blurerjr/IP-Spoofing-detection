@@ -1,0 +1,10 @@
+{
+    "required_features": [
+        "Asymmetry_Ratio",
+        "Average Packet Size",
+        "Avg Fwd Segment Size",
+        "Inbound",
+        "Flow Packets/s",
+        "Fwd Packet Length Min"
+    ]
+}
