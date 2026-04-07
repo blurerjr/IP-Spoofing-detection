@@ -206,4 +206,4 @@ col_c.metric("Total Spoof Alerts", len(final_df[final_df['Status'].str.contains(
 
 st.dataframe(final_df.style.highlight_max(subset=['Confidence'], color='#ff4444'), use_container_width=True)
 
-st.caption("Built for your thesis demo • Model: spoof_detector_v1.keras (6 features) • Scaler: network_scaler.pkl")
+st.caption("Developed by HUI Students")
